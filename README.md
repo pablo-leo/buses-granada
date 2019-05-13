@@ -110,9 +110,9 @@ son las primeras y últimas paradas de cada línea) y la gran mayoría
 tienen 2 conexiones. También se puede observar que un $\approx 75\%$ de
 los nodos tienen un grado menor a 4.
 
-<center>
+<p align="center">
     <img src="./images/degree-distribution.png"/>
-</center>
+</p>
 
 Existen también varios nodos fuertemente conectados (hubs), de los
 cuales el mayor posee un grado de 10. Se da la propiedad **libre de
@@ -137,9 +137,9 @@ conectar directamente cualquier parada con el resto (lo que generaría un
 alto coeficiente de clustering), si no generar un camino que una
 cualquier par de paradas de forma **no** directa.
 
-<center>
+<p align="center">
     <img src="./images/clustering-coefficient.png"/>
-</center>
+</p>
 
 El coeficiente de clustering es mucho mayor en las paradas poco
 conectadas que en los *hubs*, ya que las paradas con un grado bajo están
