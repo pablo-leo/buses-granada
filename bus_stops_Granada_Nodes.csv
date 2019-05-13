@@ -1,0 +1,625 @@
+Id;Nombre;Longitud;Latitud
+0;Gran Vía 5- Catedral;-3.597943;37.17638
+1;Arquitecto García Paredes - Fte 4;-3.58996;37.174288
+2;Avda. Federico García Lorca 27;-3.620644;37.202262
+3;Avda. Federico García Lorca 15;-3.618758;37.200418
+4;Juan Pablo II - Rotonda Casería de Aguirre;-3.619005;37.206589
+5;Auditorio Manuel de Falla - Carmen de los Mártires;-3.589211;37.174264
+6;Ctra. Murcia - Cármenes de Rolando;-3.596319;37.185415
+7;Pedro Temboury 8;-3.613796;37.20171
+8;Molinos 38;-3.592121;37.172204
+9;Joaquina Eguaras 7;-3.60995;37.201899
+10;Joaquina Eguaras 1;-3.608951;37.200412
+11;Gran Vía 61 - Padre Suárez;-3.601479;37.182538
+12;Gran Vía 32 - Sagrado Corazón;-3.599423;37.179354
+13;Juan Pablo II - Fte Estación Autobuses;-3.613139;37.200146
+14;Ctra. Murcia - Fte Cármenes de Rolando;-3.597159;37.185264
+15;Avda. Constitución 15 - Fuentenueva;-3.605085;37.184285
+16;Avda. Constitución 2 - Triunfo;-3.602843;37.183581
+17;Casería del Cerro - Centro de Salud Cartuja;-3.608576;37.207663
+18;Casería del Cerro 86;-3.608678;37.20749
+19;Casería del Cerro - Fte Plaza Rey Badis;-3.605172;37.20768
+20;Pedro Machuca 78;-3.608998;37.206988
+21;Avda. Argentinita 3;-3.615703;37.195974
+22;Gran Vía 29 - Sagrado Corazón;-3.599477;37.179179
+23;Joaquina Eguaras 29;-3.614105;37.21036
+24;Joaquina Eguaras 60;-3.609283;37.201928
+25;Juan Pablo II - Estación Autobuses;-3.613502;37.200009
+26;Cerrillo de Maracena;-3.628586;37.205466
+27;Casería de Aguirre - Rey Ben Zirí;-3.614642;37.209053
+28;Casería de Aguirre Fte 63;-3.612049;37.209722
+29;Casería de Aguirre 63;-3.611496;37.210549
+30;Pedro Machuca - Fte 33;-3.609798;37.210217
+31;Pedro Machuca 33;-3.609962;37.210065
+32;Ctra. Murcia - Urbanización Carmen de las Palmas;-3.597729;37.184307
+33;Cno. Ronda 118;-3.60853;37.174766
+34;Cno. Ronda 87;-3.607369;37.17247
+35;Campo del Príncipe 3;-3.592051;37.173284
+36;Carril de San Cecilio 2;-3.590868;37.173356
+37;Jesús y María 13;-3.595719;37.173826
+38;Cuesta de San Antonio 25;-3.598696;37.185876
+39;Pagés - Centro Día Mayores Albaicín;-3.59171;37.182805
+40;Avda. del Hospicio - Hospital Real;-3.60069;37.184343
+41;Plaza Nueva;-3.596113;37.176555
+42;Cno. Nuevo del Cementerio 57;-3.585877;37.169761
+43;San Miguel Bajo;-3.596886;37.180512
+44;Callejón de las Tomasas 19;-3.591602;37.181031
+45;Cuesta del Chapiz - Peso de la Harina;-3.588582;37.180977
+46;Palacio Emperador Carlos V;-3.588259;37.175029
+47;Palencia 6;-3.598911;37.160074
+48;Fernando de los Ríos - Parque de las Ciencias;-3.604132;37.16145
+49;Ctra. de la Sierra 137;-3.574285;37.163726
+50;Ctra. Huétor Vega Fte 20 - Villa Argaz;-3.582722;37.153802
+51;Tete Montoliú 6;-3.609193;37.197133
+52;Sánchez Cotán 37;-3.604092;37.20608
+53;Acera del Darro 8 - Puerta Real;-3.599573;37.172805
+54;Andrés Segovia - Hípica;-3.595098;37.160848
+55;Cno. de la Zubia 6 - Plaza del Ángel;-3.596741;37.163606
+56;Andarax 100;-3.587643;37.188115
+57;Casería del Cerro 76;-3.610822;37.206317
+58;Plaza San Isidro - Iglesia;-3.603822;37.187025
+59;Glorieta Neptuno;-3.609081;37.167273
+60;Julio Moreno Dávila - Centro Cívico Norte;-3.600532;37.203198
+61;Ctra. Murcia - Haza Grande;-3.59243;37.189967
+62;Fernando Gómez de la Cruz - Fte 59;-3.623253;37.198077
+63;Doctor Azpitarte 1 - Cáritas;-3.607739;37.18823
+64;Ctra. Málaga 125 - Venta Zurita;-3.629868;37.189699
+65;Ctra. Málaga 81;-3.626113;37.189193
+66;Ctra. Murcia - Pagés - Albaicín;-3.593431;37.184602
+67;Cno. Alfacar - Fte INEF;-3.597184;37.204594
+68;Julio Moreno Dávila - IES Cartuja;-3.59797;37.203025
+69;Cruz del Sur 3 - Villarejo;-3.614875;37.188744
+70;Caleta - Juzgados;-3.61027;37.186794
+71;Cno. Viejo del Fargue - Fte 63;-3.587877;37.191324
+72;Cno. Viejo del Fargue - Fte 63;-3.588022;37.191028
+73;Cementerio San José;-3.578602;37.170778
+74;Andarax 22;-3.589452;37.188698
+75;Cno. Ronda 172;-3.612146;37.180716
+76;Cno. Ronda 148;-3.61073;37.178417
+77;Cno. Ronda 130 - Méndez Núñez;-3.609236;37.175918
+78;Cno. Ronda 100;-3.607404;37.172895
+79;Cno. Ronda 71 - Recogidas;-3.606191;37.170544
+80;Cno. Ronda 4 - Alcázar Genil;-3.602101;37.164203
+81;Olimpia 4;-3.624805;37.200576
+82;Olimpia 3;-3.624949;37.200596
+83;Hoya de la Mora 3;-3.586047;37.161529
+84;Avda. Pulianas 60;-3.604057;37.196889
+85;Avda. Maracena 152;-3.62667;37.203658
+86;Francisco Ayala 81;-3.619251;37.195054
+87;Francisco Ayala 16 - Luis Amador;-3.615402;37.191733
+88;Avda. Dílar 94;-3.600803;37.15367
+89;Avda. Dílar 109;-3.600779;37.152705
+90;Avda. Cervantes 6;-3.589413;37.165578
+91;Avda. América 8 - Centro Salud Zaidín;-3.600317;37.161288
+92;Avda. Andalucía - Parque Almunia;-3.623968;37.193299
+93;Avda. Andalucía - Fte IES Virgen de las Nieves;-3.617514;37.190711
+94;Cno. Nuevo del Cementerio 73;-3.583373;37.169174
+95;Ancha de Capuchinos 15;-3.603017;37.186082
+96;Avda. Santa María Alhambra - Carmen de los Fosos;-3.581849;37.169897
+97;Cristo de la Yedra 33;-3.600283;37.187432
+98;Guarnón 56 - Polideportivo Bola de Oro;-3.58446;37.163476
+99;Guarnón 1;-3.58803;37.164806
+100;Avda. Constitución 38 - Estación Ferrocarril;-3.60793;37.186082
+101;Doctor Olóriz - Plaza de Toros;-3.607089;37.188549
+102;Bda. Bobadilla - Secadero;-3.645782;37.191951
+103;Carril de los Coches - Cno. Abadía del Sacromonte;-3.576096;37.18216
+104;Cuesta del Realejo 1;-3.593465;37.17372
+105;Acera de San Ildefonso 12;-3.599915;37.184106
+106;Plaza de Santo Domingo;-3.594812;37.173391
+107;Ribera del Beiro 25;-3.607197;37.191891
+108;Ribera del Beiro 43;-3.604876;37.193952
+109;Ribera del Beiro - Fte 43;-3.604676;37.193857
+110;Ribera del Beiro 32;-3.607008;37.191596
+111;Cno. Viejo del Fargue - Cruce Abadía;-3.571278;37.196991
+112;El Pinar 5;-3.590237;37.189213
+113;Cristo de la Yedra 19;-3.601632;37.187035
+114;Real de Cartuja 42;-3.600009;37.186627
+115;Pagés 16;-3.593081;37.183853
+116;Avda. Sierra Nevada 138;-3.530816;37.157516
+117;Cno. Bajo de Huétor 146;-3.586212;37.156173
+118;Cuesta del Caidero 15;-3.588822;37.172538
+119;Cuesta del Caidero 10;-3.588616;37.172039
+120;Albondón 14;-3.6189;37.182634
+121;Albondón 4;-3.616974;37.184634
+122;Mecina Bombarón;-3.618941;37.181552
+123;Palencia 24;-3.594703;37.159509
+124;Palencia 25;-3.59487;37.159688
+125;Pepita Bustamante 25;-3.590439;37.160167
+126;Pepita Bustamante - CEIP García Lorca;-3.590742;37.159661
+127;Paseo de Europa - Colegio García Lorca;-3.592405;37.15957
+128;Paseo de Europa - Fte Colegio García Lorca;-3.592502;37.159638
+129;Pedro Temboury 24;-3.609195;37.203862
+130;Cno. Bajo de Huétor 70;-3.589205;37.159857
+131;Cno. Bajo de Huétor 49;-3.588964;37.159711
+132;Paseo Laguna Cameros - Centro Comercial;-3.58476;37.156842
+133;Paseo Laguna Cameros 16 - Centro Comercial;-3.585165;37.157027
+134;Jesús y María 1;-3.596612;37.174284
+135;Domingo Puente Marín 4 - Rotonda Aviación;-3.602148;37.162946
+136;Emperador Carlos V 16;-3.594498;37.155255
+137;Emperador Carlos V 9;-3.593465;37.155359
+138;Cno. Beas Fte 25;-3.571911;37.181997
+139;Cno. Beas 27;-3.569816;37.181802
+140;Cno. Beas Fte 28;-3.567412;37.181321
+141;Cno. del Sacromonte 1- Peso de la Harina;-3.588556;37.181202
+142;Cno. Beas 46;-3.564781;37.181611
+143;Cno. Beas 28;-3.567328;37.181271
+144;Cno. Beas 27;-3.569741;37.181759
+145;Cno. Beas 25;-3.571888;37.181957
+146;Paseo del Padre Manjón - Rey Chico;-3.588587;37.179192
+147;Carril de los Coches 4;-3.57452;37.182137
+148;Santo Sepulcro del Sacromonte 5;-3.579154;37.18158
+149;Sacromonte - Carril de los Coches;-3.5753;37.181968
+150;Paseo de la Sabica 38 - Parque Alixares;-3.583385;37.173016
+151;Cno. Nuevo del Cementerio 19;-3.586126;37.171023
+152;Cno. Nuevo del Cementerio 12;-3.587421;37.171329
+153;Arco de Elvira 4;-3.599593;37.182733
+154;Carril de la Lona 1;-3.597588;37.182389
+155;Santa Isabel la Real;-3.595824;37.180685
+156;Cno. Nuevo de San Nicolás 7;-3.594287;37.181008
+157;Plaza San Nicolás;-3.593008;37.180805
+158;Placeta del Abad;-3.591258;37.181847
+159;Cno. del Sacromonte - Fte 39;-3.586833;37.181037
+160;Cno. del Sacromonte - Fte 89;-3.583967;37.181938
+161;Cno. del Sacromonte - Fte 109;-3.582001;37.181465
+162;Sacromonte - Santo Sepulcro;-3.579112;37.18154
+163;Cno. del Sacromonte 109;-3.581975;37.181372
+164;Cno. del Sacromonte 89;-3.583912;37.181839
+165;Cno. del Sacromonte 39;-3.586822;37.180985
+166;Paseo del Padre Manjón - Fte 1;-3.590266;37.178767
+167;Carrera del Darro 33 - Bañuelo;-3.592799;37.178316
+168;Puerta de la Justicia;-3.589869;37.175838
+169;Alhambra - Generalife 2;-3.585539;37.174404
+170;Paseo del Generalife 4;-3.587481;37.173973
+171;Julio Moreno Dávila 6;-3.602774;37.20295
+172;Cuesta del Chapiz 60;-3.589388;37.182178
+173;Cno. Real de los Neveros - Aixa la Horra;-3.579248;37.158066
+174;Cno. Real de los Neveros 114;-3.57514;37.15635
+175;Avda. Dílar 121;-3.601086;37.151672
+176;Avda. América 1 - Colegio Caja Granada;-3.601041;37.162432
+177;Avda. Dílar 14;-3.599883;37.159895
+178;Palencia 3;-3.599073;37.160271
+179;Palencia 19;-3.596049;37.159869
+180;Palencia 20 - Merca 80;-3.596516;37.159755
+181;Pedro Temboury 33;-3.60917;37.204149
+182;Julio Moreno Dávila 19;-3.59799;37.203241
+183;Avda. Dilar 33;-3.599798;37.158869
+184;Paseo del Salón 11 - Plaza Carretas;-3.593552;37.169864
+185;Ctra. de la Sierra 71;-3.578673;37.164665
+186;Ctra. de la Sierra 87;-3.576785;37.164191
+187;Ctra. de la Sierra 31;-3.584998;37.166487
+188;Ctra. de la Sierra 49;-3.583095;37.16594
+189;Ctra. de la Sierra 69;-3.581137;37.16536
+190;Paseo de los Basilios 2 - Escolapios;-3.595175;37.168313
+191;Paseo de la Bomba 17;-3.588982;37.168129
+192;Paseo Cartuja 4 - Cristo de la Yedra;-3.600407;37.189088
+193;Ctra. Murcia 47 - Col. Ave Mª San Cristobal;-3.595869;37.183644
+194;Ctra. Murcia 55;-3.594166;37.184398
+195;Ctra. Murcia 65 - Fajalauza;-3.593107;37.187172
+196;Avda. Santa María Alhambra - Parking Generalife;-3.580645;37.171327
+197;Avda. Cervantes 13;-3.58895;37.16527
+198;Torre de Comares 8;-3.594094;37.152056
+199;Tete Montoliú 16 - Fte Junta de Andalucía;-3.606389;37.198067
+200;Tete Montoliú - Centro Comercial;-3.609548;37.19752
+201;Plaza Realejo;-3.593977;37.173306
+202;Santiago 39;-3.592602;37.17176
+203;Santiago 75;-3.591094;37.170346
+204;Sánchez Cotán 40;-3.603975;37.206461
+205;Sánchez Cotán 7;-3.604027;37.203929
+206;Sánchez Cotán 28;-3.60377;37.204519
+207;Sánchez Cotán 10;-3.604232;37.20185
+208;Sánchez Cotán 4;-3.604289;37.200482
+209;Sagrada Familia 28;-3.625541;37.189901
+210;Sagrada Familia 18 - Iglesia Santa Micaela;-3.624775;37.19122
+211;Recogidas 38;-3.603335;37.171594
+212;Recogidas 5;-3.600628;37.172925
+213;Recogidas 2;-3.600531;37.17309
+214;Recogidas 35;-3.603205;37.171515
+215;Profesor Clavera - Facultad  Psicología;-3.595321;37.194104
+216;Plaza Fortuny - Realejo;-3.594482;37.173698
+217;Andrés Segovia 43 - Hípica;-3.594889;37.160844
+218;Pintor Maldonado 42 - Nuevo los Cármenes;-3.597181;37.15237
+219;El Pinar Fte 5;-3.590217;37.18956
+220;Santa Escolástica 2;-3.5955;37.174609
+221;Plaza Isabel la Católica 2;-3.596957;37.175642
+222;Paseo del Violón;-3.599411;37.165379
+223;Fernando de los Ríos - Parque Cruz de Lagos;-3.603997;37.16127
+224;Parking Alhambra - Cementerio;-3.580175;37.171369
+225;Emperador Carlos V - Palacio Deportes;-3.591935;37.152964
+226;Pablo Picasso 33;-3.594788;37.164726
+227;Plaza San Isidro;-3.603602;37.186649
+228;Avda. Andalucía 18;-3.613041;37.188781
+229;Arabial 22;-3.606462;37.168767
+230;Arabial 4;-3.60485;37.166109
+231;Paseo Cartuja - Monasterio;-3.600652;37.191814
+232;Poeta Manuel de Góngora 9;-3.594945;37.166398
+233;Luis de Vicente 5;-3.601863;37.199725
+234;Luis de Vicente 4;-3.602245;37.199432
+235;Luis Amador 7;-3.615244;37.193774
+236;Luis Amador 22;-3.614964;37.193809
+237;Juan Echevarría 2;-3.589679;37.159286
+238;Jorge Torres 3;-3.591283;37.158476
+239;Joaquina Eguaras 2 - Delegación JJAA;-3.607163;37.198598
+240;Julio Moreno Dávila 3;-3.602793;37.203162
+241;Julio Moreno Dávila 14;-3.599855;37.203046
+242;Ctra. Murcia 210 - Haza Grande;-3.592163;37.190121
+243;Gran Capitán 25 - Centro Cultural;-3.605648;37.177357
+244;San Juan de Dios 7;-3.603237;37.179614
+245;José María Garrido Lopera 3;-3.589489;37.158969
+246;Avda. Fuente Nueva 5 - Universidad;-3.607635;37.179629
+247;Francisco Pradilla - Fte 6;-3.6148;37.190417
+248;Francisco Pradilla 6;-3.614523;37.190419
+249;Fernando Gómez de la Cruz 59;-3.623307;37.197937
+250;Plaza de Europa- José Mª Carulla;-3.622278;37.195764
+251;Plaza de Europa - Avda. Maracena;-3.622052;37.196958
+252;Fargue - El Retiro 2;-3.556739;37.209438
+253;Fargue - El Retiro 1;-3.556571;37.209312
+254;Fargue - Barriada de los Remedios;-3.557832;37.207378
+255;Fargue - Barrio Nuevo 1;-3.558247;37.207105
+256;Fargue 25;-3.564235;37.202966
+257;Fargue - Fábrica de Pólvoras;-3.564417;37.20257
+258;Fargue 49;-3.566949;37.200483
+259;Fargue - Barriada del Pilar 5;-3.566415;37.200548
+260;Fargue - Fte 2;-3.568478;37.199392
+261;Fargue 2;-3.568412;37.199334
+262;Fargue - Mirador del Veleta;-3.555316;37.210626
+263;Profesor Clavera - Fte Facultad Empresariales;-3.595417;37.192272
+264;Emperatriz Eugenia 18;-3.607577;37.175503
+265;Cno. Real de los Neveros - Fte Aconcagua;-3.578616;37.157719
+266;Doctor Olóriz 14;-3.607145;37.188075
+267;Doctor Castroviejo 13;-3.608813;37.190806
+268;Doctor Azpitarte - Hospital Virgen de las Nieves;-3.609116;37.18878
+269;Ctra. Málaga 160 - Ciudad de los Niños;-3.641328;37.191458
+270;Ctra. Málaga 193 - Ciudad de los Niños;-3.641483;37.191352
+271;Ctra. Málaga 191;-3.639116;37.19092
+272;Ctra. Málaga - Polígono Fatinafar;-3.639069;37.191039
+273;Ctra. Málaga Fte 142;-3.636614;37.190582
+274;Ctra. Málaga 142;-3.636692;37.190713
+275;Ctra. Málaga 116 - Venta Zurita;-3.629891;37.189877
+276;Ctra. Málaga 88;-3.626197;37.189382
+277;Ctra. Málaga 69;-3.623438;37.189123
+278;Ctra. Málaga 74;-3.623173;37.189284
+279;Ctra. Málaga - Las Torres;-3.619775;37.188812
+280;Ctra. Málaga 54 - Fte Las Torres;-3.619754;37.188956
+281;Ctra. Málaga - Villa Pineda;-3.615553;37.188372
+282;Ctra. Málaga - Villarejo;-3.615386;37.188502
+283;Avda. Dílar - Fte Plaza Asunción Linares;-3.601317;37.150538
+284;Ctra. Murcia - Fajalauza;-3.593014;37.186631
+285;Mirador San Cristóbal-Albaicín;-3.596075;37.18312
+286;Ctra. Murcia - Fte 1;-3.599702;37.187928
+287;Andrés Segovia 60 - Centro Cívico Zaidín;-3.595663;37.157957
+288;Ctra. de la Sierra 114;-3.578632;37.164504
+289;Ctra. de la Sierra 130;-3.576315;37.163929
+290;Ctra. de la Sierra - Fte 137;-3.57436;37.163621
+291;Ctra. de la Sierra 13;-3.58693;37.167047
+292;Ctra. de la Sierra 14;-3.588474;37.167438
+293;Ctra. de la Sierra 30;-3.585111;37.166368
+294;Ctra. de la Sierra 46;-3.583161;37.165802
+295;Polideportivo Bola de Oro;-3.582713;37.16425
+296;Guarnón 67;-3.586824;37.164962
+297;Ctra. de la Sierra 70;-3.581337;37.165293
+298;Juan Pablo II 17;-3.609487;37.195607
+299;Juan Pablo II 72;-3.609635;37.196353
+300;Juan Pablo II 5;-3.608587;37.193925
+301;Juan Pablo II 6 - Hospital Traumatología;-3.6083;37.1939
+302;Fernando de los Ríos 8;-3.605602;37.160085
+303;Fernando de los Ríos 35;-3.605225;37.160174
+304;Fernando de los Ríos 24;-3.606609;37.15884
+305;Fernando de los Ríos 23;-3.607886;37.157814
+306;Cno. Alfacar - INEF 2;-3.597391;37.204658
+307;Cno. Alfacar - Residencia Estudiantes;-3.597496;37.203318
+308;Cno. Alfacar - Fte Centro Valoración;-3.599109;37.200439
+309;Cno. Alfacar - Centro Valoración 2;-3.598477;37.201436
+310;Cno. Alfacar - Ronda Panaderos;-3.599582;37.199549
+311;Cno. Alfacar - CEIP Juan Ramón Jiménez;-3.599747;37.199585
+312;Cno. Alfacar 1- Casería Montijo;-3.600189;37.197992
+313;Cno. Alfacar 27 - Casería Montijo;-3.600379;37.197959
+314;Cno. Alfacar - IES Aynadamar;-3.601198;37.195
+315;Cno. Alfacar - Jefatura Tráfico;-3.60131;37.195917
+316;Fernando de los Ríos - Avda. Barcelona;-3.602103;37.162477
+317;Avda. Constitución 50 - Caleta - Hospital;-3.610166;37.187096
+318;Profesor Clavera - Alojamientos Universitarios;-3.598165;37.190799
+319;Cno. Viejo del Fargue - Fte Cruce Abadía;-3.571295;37.197046
+320;Cno. Viejo del Fargue - Fte Subestación;-3.57525;37.197041
+321;Cno. Viejo del Fargue - Subestación;-3.57534;37.196982
+322;Cno. Viejo del Fargue 21;-3.588927;37.189813
+323;Cno. Viejo del Fargue 19;-3.588835;37.189776
+324;Los Rebites;-3.571802;37.154447
+325;Avda. Andalucía 27;-3.619127;37.191378
+326;Prof. Vicente Callao - Fte Ciencias Educación;-3.599754;37.192585
+327;Poeta Mira de Amézcua 1;-3.591245;37.159229
+328;Casería del Cerro - Plaza Rey Badis;-3.605681;37.207864
+329;Cardenal Parrado 1;-3.605048;37.18952
+330;Cardenal Parrado 51;-3.601554;37.190382
+331;Cno. Ronda 157;-3.613993;37.18339
+332;Cno. Ronda 184;-3.613108;37.182349
+333;Cno. Ronda 153;-3.61274;37.181291
+334;Cno. Ronda 125;-3.611084;37.178549
+335;Cno. Ronda 97;-3.608294;37.173999
+336;Cno. Ronda 60 - Recogidas;-3.604872;37.168743
+337;Cno. Ronda 38;-3.6037;37.166824
+338;Cno. Ronda 82 - Recogidas;-3.606126;37.1708
+339;Cno. Ronda 19 - Alcázar Genil;-3.602399;37.164325
+340;Cno. Ronda 27;-3.603447;37.166043
+341;Cno. Ronda 53;-3.604667;37.168044
+342;Cno. Ronda 177 - Estadio de la Juventud;-3.614927;37.185427
+343;Cno. Ronda 210;-3.614641;37.187214
+344;Cno. Ronda 194 - Fte Estadio de la Juventud;-3.614268;37.184284
+345;Cno. Real de los Neveros 28;-3.583359;37.160125
+346;Cno. Real de los Neveros 19;-3.583401;37.160318
+347;Cno. Real de los Neveros 99;-3.581218;37.159174
+348;Cno. Real de los Neveros 50;-3.580934;37.158825
+349;José Tamayo 23;-3.587034;37.162767
+350;José Tamayo 4;-3.587157;37.162547
+351;Neptuno - Fte Centro Comercial;-3.607834;37.169
+352;Neptuno 5;-3.606441;37.16974
+353;Cno. Bajo de Huétor 83;-3.586127;37.156483
+354;Cno. Bajo de Huétor 59;-3.587842;37.158136
+355;Cno. Bajo de Huétor 82;-3.588277;37.158429
+356;Hoya de la Mora 2;-3.586409;37.161252
+357;Ctra. Málaga 203;-3.644196;37.191654
+358;Barriada Bobadilla;-3.643883;37.191777
+359;Beethoven - Fte IES Alhambra;-3.603123;37.156692
+360;Pedro Machuca - IES La Paz;-3.609133;37.206904
+361;Pedro Machuca 23;-3.607976;37.205218
+362;Pedro Machuca 32;-3.607823;37.205274
+363;Avda. Pulianas 63;-3.604315;37.196284
+364;Avda. Pulianas 11;-3.603781;37.189411
+365;Avda. Maracena 133;-3.626342;37.203
+366;Francisco Ayala 62;-3.619109;37.19526
+367;Francisco Ayala 34;-3.617069;37.193578
+368;Francisco Ayala 29;-3.616493;37.192581
+369;Avda. Dílar 26;-3.600011;37.158496
+370;Avda. Dílar 56;-3.60054;37.156044
+371;Avda. Dílar 71;-3.600313;37.156382
+372;Avda. Dílar 89;-3.600487;37.154492
+373;Avda. Dílar 134;-3.601294;37.151498
+374;Avda. Madrid 23;-3.606742;37.19044
+375;Avda. Madrid - Hospital Clínico;-3.604984;37.188847
+376;Avda. Cervantes 1;-3.589929;37.166587
+377;Avda. Cádiz 42;-3.60389;37.154975
+378;Ribera del Beiro 26;-3.608373;37.191372
+379;Ribera del Beiro 10 - Mondragones;-3.610667;37.190087
+380;Avda. Argentinita 2;-3.614746;37.196972
+381;Avda. Andalucía - Diputación;-3.629053;37.195634
+382;Avda. Andalucía 107;-3.626897;37.1943
+383;Avda. Andalucía - Facultad Bellas Artes;-3.627012;37.194702
+384;Avda. Andalucía 91;-3.624402;37.193153
+385;Avda. Andalucía - Sindicatos;-3.621576;37.192417
+386;Avda. Andalucía 38 - IES Virgen de las Nieves;-3.617804;37.191174
+387;Andrés Segovia 35;-3.594432;37.16318
+388;Ancha de Capuchinos - Jardines del Triunfo;-3.60124;37.184098
+389;Acera del Darro 41 - Humilladero;-3.59662;37.168832
+390;Avda. Sierra Nevada 81;-3.532683;37.158361
+391;Avda. Sierra Nevada 63;-3.536315;37.158568
+392;Ayto. Cenes de la Vega;-3.538656;37.159415
+393;Avda. Sierra Nevada 37;-3.541441;37.160299
+394;Avda. Sierra Nevada 29;-3.544728;37.161183
+395;Avda. Sierra Nevada 23;-3.546532;37.161807
+396;Ctra. de la Sierra - Manuel Cabrera;-3.549187;37.162341
+397;Ctra. de la Sierra - Lancha del Genil;-3.550499;37.162439
+398;Ctra. de la Sierra - Ordesa;-3.556172;37.161976
+399;Ctra. de la Sierra 297;-3.559296;37.162728
+400;Ctra. de la Sierra 131;-3.563196;37.163091
+401;Ctra. de la Sierra 91;-3.567394;37.16308
+402;Ctra. de la Sierra - Ronda Sur;-3.569512;37.162545
+403;Paseo de los Basilios 3 - Col. Sagrado Corazón;-3.592779;37.168814
+404;Paseo de los Basilios 12;-3.589877;37.16724
+405;Ctra. de la Sierra - Hospital;-3.570629;37.162938
+406;Ctra. de la Sierra 146;-3.566923;37.163019
+407;Ctra. de la Sierra 152;-3.563226;37.16297
+408;Ctra. de la Sierra 160;-3.559077;37.162552
+409;Ctra. de la Sierra 168;-3.55667;37.16196
+410;Ordesa 23;-3.553182;37.162196
+411;Lancha del Genil - Ordesa;-3.551057;37.162676
+412;Ctra. de la Sierra - Fte Manuel Cabrera;-3.549371;37.162212
+413;Avda. Sierra Nevada 22 - Parque Acuático;-3.546499;37.161637
+414;Avda. Sierra Nevada 36;-3.544781;37.161075
+415;Avda. Sierra Nevada 68;-3.541253;37.160123
+416;Avda. Sierra Nevada 90;-3.538856;37.159331
+417;Avda. Sierra Nevada 108;-3.536327;37.15847
+418;Avda. Sierra Nevada 140;-3.532814;37.15829
+419;Avda. Sierra Nevada 97;-3.530397;37.157519
+420;Maria Goyri - Complejo Deportivo Chana;-3.629023;37.19291
+421;Periodista Eugenio Sellés - Fte Facultad Bellas Artes;-3.626461;37.195164
+422;Plaza del Parque Nueva Granada -  Fte Parroquia S.J. Bautista;-3.593578;37.204874
+423;Andarax 35 - San Miguel Alto;-3.586772;37.187157
+424;Andarax 76;-3.587773;37.188035
+425;Ramon y Cajal;-3.61657;37.181807
+426;Plaza de la Ilusión;-3.615618;37.182153
+427;Arabial 109;-3.614012;37.181067
+428;Arabial 101;-3.613063;37.179482
+429;Arabial - Centro Comercial;-3.612226;37.177883
+430;Avda. Fuente Nueva - Universidad;-3.608014;37.179544
+431;Avda. de la Ilustración - Facultad Ciencias de la Salud;-3.60576;37.149263
+432;Torre de Comares - Nuevo los Cármenes;-3.597157;37.150754
+433;Pintor Maldonado 24;-3.596865;37.154468
+434;Plaza de los Andes;-3.573693;37.157342
+435;Cno. Real de los Neveros - Fte 118;-3.574658;37.15619
+436;Pintor Maldonado 12;-3.596535;37.15672
+437;Doctor Alejandro Otero;-3.606344;37.16445
+438;Maestro Montero;-3.6076;37.165663
+439;Neptuno 4;-3.606454;37.169932
+440;Recogidas 51;-3.604745;37.170706
+441;Recogidas 50;-3.604812;37.170786
+442;Palacio de Congresos;-3.598653;37.165856
+443;Tierno Galván - Palacio Congresos;-3.598024;37.165883
+444;Fontiveros - Plaza de la Hípica;-3.595718;37.161521
+445;Cno. Bajo de Huétor - CSIC;-3.589921;37.161855
+446;Cno. Bajo de Huétor - Fte CSIC;-3.589868;37.161948
+447;Andrés Segovia 1;-3.594131;37.164858
+448;Plaza Mariana Pineda;-3.597247;37.17249
+449;Ángel Ganivet 2;-3.598774;37.17318
+450;San Matias 16;-3.596795;37.173646
+451;Avda. del Hospicio - Triunfo;-3.601731;37.183341
+452;Severo Ochoa  - Fuente Nueva;-3.605014;37.183697
+453;Doctor Olóriz 3;-3.60832;37.186496
+454;Cruz del Sur 2 - Villarejo;-3.61453;37.188671
+455;Ribera del Beiro - Hospital Materno Infantil;-3.611302;37.189192
+456;Eduardo Molina Fajardo - Escuela Gerencia;-3.630603;37.197302
+457;Eduardo Molina Fajardo 1;-3.627265;37.19749
+458;Avda. Federico García Lorca 9;-3.617447;37.198957
+459;Juan Pablo II 23;-3.610819;37.197432
+460;Teté Montoliú 7;-3.60556;37.198515
+461;Pedro Machuca - Periodista Luis de Vicente;-3.604575;37.199335
+462;Pedro Machuca 7;-3.605909;37.201875
+463;Joaquina Eguaras 21;-3.611217;37.203745
+464;Pedro Machuca - Comandancia Guardia Civil;-3.606789;37.203549
+465;Pedro Machuca - Centro de Salud Cartuja;-3.609325;37.207635
+466;Pedro Machuca - Fte Centro de Salud Cartuja;-3.60949;37.207558
+467;Arquitecto Modesto Cendoya 10;-3.617186;37.209121
+468;Cno. Conejeras 14;-3.58145;37.158157
+469;Cno. Conejeras - Fte 18;-3.581627;37.158082
+470;Plaza del Carmen - Ayuntamiento;-3.599049;37.174181
+471;Avda. Innovación - Fte 20;-3.606641;37.150074
+472;Avda. Cádiz 129;-3.605157;37.152448
+473;Avda. Cádiz 70;-3.605291;37.152463
+474;Avda. Cádiz 47;-3.60344;37.155539
+475;Avda. Cádiz 33;-3.602529;37.157128
+476;Avda. Cádiz 24;-3.602667;37.157128
+477;Avda. Cádiz 9;-3.601155;37.15894
+478;Avda. Cádiz 12;-3.601113;37.159213
+479;Avda. Federico García Lorca 10;-3.616334;37.199282
+480;Pintor Fenando Belda - Centro Deportivo;-3.63072;37.188591
+481;Actriz Fabiana Laura 20 - CEIP Eugenia de Montijo;-3.62748;37.187129
+482;Pintor Fenando Belda - Parque Alquerías;-3.625104;37.184218
+483;Pintor Fenando Belda - Fte Parque Alquerías;-3.625043;37.184316
+484;P. Marcelino Álvarez - I.E.S. Severo Ochoa;-3.623235;37.183837
+485;Ntra. Señora de la Salud 5;-3.613061;37.18969
+486;Ribera del Beiro - Frente 14;-3.610486;37.190688
+487;Avda. Conocimiento 41;-3.599746;37.147737
+488;Catedral Línea Buho;-3.598227;37.176863
+489;Plaza del Parque Nueva Granada;-3.595842;37.205143
+490;Avda. Sierra Nevada - Los Pinillos;-3.527082;37.158166
+491;Plaza Isabel la Católica 4;-3.59694;37.175524
+492;Avda. América 2;-3.601062;37.16211
+493;Avda. Investigación - Fte Hospital Campus Salud;-3.605201;37.147687
+494;Avda. Investigación - Fte Hospitalización Campus Salud;-3.603199;37.146875
+495;Avda. Ilustración 110;-3.599171;37.149089
+496;Avda. Ilustración - Dílar;-3.601168;37.149088
+497;Ronda de Alfareros 18 - AAVV;-3.595767;37.199482
+498;Gran Vía 14 - Catedral;-3.598082;37.176903
+499;Constitución 7;-3.603557;37.183504
+500;Avda. Constitución 20;-3.605744;37.185016
+501;Beethoven - Fte IES Mariana Pineda;-3.604913;37.157407
+502;Gran Vía 54;-3.600945;37.182127
+503;Acera del Darro 30 - Fuente de las Batallas;-3.599018;37.171784
+504;Avda. Innovación - Parque Tecnológico;-3.606984;37.148205
+505;Prof. Vicente Callao - Fte Facultad Teología;-3.598722;37.195194
+506;Prof. Vicente Callao - Facultad Teología;-3.598439;37.195244
+507;Acera del Darro 1 - Fuente de las Batallas;-3.59851;37.171348
+508;Profesor Clavera - Fte Alojamientos Universitarios;-3.598039;37.190639
+509;Profesor Clavera - Instituto Andaluz de Geofísica;-3.596709;37.190652
+510;Profesor Clavera - Facultad Filosofía y Letras;-3.596533;37.190819
+511;Profesor Clavera - Facultad Económicas y Empresariales;-3.595238;37.192045
+512;Profesor Clavera - Facultad Psicología 1;-3.594899;37.193551
+513;Profesor Clavera - Facultad Farmacia 2;-3.596072;37.196006
+514;Profesor Clavera - Facultad Farmacia 1;-3.596092;37.195731
+515;Prof. Vicente Callao - Facultad Ciencias Educación;-3.599104;37.19301
+516;Fontiveros 46;-3.593656;37.161239
+517;Avda. Santa María Alhambra - Secanillo Alto;-3.581893;37.169585
+518;Avda. Santa María Alhambra - Cno. Nuevo Cementerio 82;-3.582773;37.168505
+519;Avda. Santa María Alhambra - Cno. Nuevo Cementerio 59;-3.582775;37.168595
+520;Avda. Santa María Alhambra - Fte Hospital;-3.572383;37.164034
+521;Avda. Santa María Alhambra - Hospital;-3.572374;37.164192
+522;Plaza de las Américas;-3.601738;37.162605
+523;Avda. Fuente Nueva - Facultad Ciencias;-3.609239;37.178574
+524;Cno. Ronda 105 - Méndez Núñez;-3.609463;37.175906
+525;Gabriela Mistral 14 - Parque Nueva Granada;-3.595289;37.204597
+526;María Maeztu - Parque Nueva Granada;-3.595108;37.205543
+527;Avda. Andalucía 121;-3.629506;37.195449
+528;Periodista Rafael Gómez Montero 3;-3.624406;37.197468
+529;Mirador Veleta 11;-3.555648;37.210067
+530;Cno. Viejo del Fargue - Fte 69;-3.582099;37.194425
+531;Cno. Viejo del Fargue 69;-3.582158;37.194476
+532;Juan Pablo II 1 - Fte Traumatología;-3.60795;37.191899
+533;Pablo Picasso 10;-3.597166;37.163593
+534;Avda. Dílar 9;-3.599151;37.161816
+535;Fernando de los Ríos 43 - Colonia San Sebastián;-3.609711;37.155664
+536;Baden Powell - Santa Juliana;-3.60885;37.153549
+537;Baden Powell - Fte Santa Juliana;-3.607154;37.152594
+538;Félix Rodríguez de la Fuente 16;-3.60603;37.153829
+539;Plaza Agustiín Laborde;-3.597667;37.203354
+540;Casería del Cerro - C. Magisterio La Inmaculada;-3.611602;37.206174
+541;Avda. Dílar 10;-3.599312;37.161861
+542;Avda. Dílar 2;-3.598007;37.163827
+543;Arabial 16;-3.605638;37.167394
+544;Avda. América - Fte Centro Salud Zaidín;-3.600066;37.161342
+545;Tete Montoliú - Junta de Andalucía;-3.606712;37.198179
+546;Andújar;-3.618978;37.208918
+547;Palacio de Congresos - Plaza Rotary;-3.597889;37.166406
+548;Acera del Darro 96;-3.59661;37.168501
+549;Acera del Darro 98 - Humilladero;-3.596659;37.168572
+550;Gran Vía 29 - Marqués de Falces;-3.599441;37.179106
+551;Gran Vía 61;-3.60132;37.182443
+552;Sánchez Cotán - Fte 4;-3.604462;37.200486
+553;Sánchez Cotán 1;-3.604402;37.201795
+554;Luis Miranda Dávalos 93;-3.614228;37.195298
+555;José María Carulla 29;-3.622429;37.194886
+556;Circunvalación Encina 4;-3.621271;37.189248
+557;Poeta Gracián 5;-3.599131;37.153583
+558;Pintor Maldonado - Estadio los Cármenes;-3.596988;37.152225
+559;Torre de Comares - Palacio Deportes;-3.594372;37.152355
+560;Primavera 27;-3.593731;37.162366
+561;Primavera 23;-3.592087;37.162148
+562;Sancho Panza 18;-3.590419;37.162083
+563;Sancho Panza 2;-3.587891;37.163156
+564;Sancho Panza 3;-3.587752;37.163022
+565;Sancho Panza 17;-3.590299;37.161937
+566;Primavera 24;-3.592146;37.161874
+567;Primavera 18;-3.593819;37.162098
+568;Poeta Gracián 8;-3.598554;37.153427
+569;Poeta Gracián 2;-3.600085;37.1536
+570;José María Carulla 10;-3.623327;37.193704
+571;Luis Miranda Dávalos 44;-3.614154;37.195667
+572;Campus Universitario - Doctor Salvatierra Fte 2;-3.598126;37.192291
+573;Andrés Segovia - Fte Centro Cívico Zaidín;-3.595249;37.158425
+574;Cno. Nuevo del Cementerio 59;-3.582026;37.168343
+575;Cno. Nuevo del Cementerio;-3.588645;37.172517
+576;Plaza Einstein;-3.60974;37.178433
+577;Avda. del Sur - Delegación Provincial de Salud;-3.61266;37.187535
+578;Avda. Federico García Lorca 30;-3.619883;37.202766
+579;Juan Pablo II - frente Parque Norte de Bomberos;-3.618219;37.204928
+580;Joaquina Eguaras - Escuela Municipal Flamenco;-3.610618;37.203928
+581;Avda. Constitución 21;-3.606862;37.185146
+582;Avda. de la Ilustración 80;-3.602386;37.149095
+583;Ronda de Panaderos 4;-3.598902;37.20056
+584;Dña. Mª Manuela -  Fte 8;-3.596988;37.200466
+585;Ronda de Alfareros 7;-3.597253;37.199005
+586;Ronda de Alfareros 4;-3.598238;37.19791
+587;Merced Alta - Centro Comercial;-3.619438;37.209914
+588;José Mezcua Ruiz - Avda. Andalucía;-3.623753;37.193395
+589;Virgen de la Consolación 19;-3.628745;37.190167
+590;Gran Vía 4 - Catedral;-3.59782;37.176428
+591;Plaza del Humilladero 1;-3.596525;37.169314
+592;Acera del Casino 5 - Puerta Real;-3.599153;37.172468
+593;Avda. Constitución 2 - Triunfo;-3.6026;37.183452
+594;Avda. Constitución 27 - Estación Ferrocarril;-3.608124;37.185755
+595;Caleta - Hospital;-3.610588;37.187239
+596;Avda. Constitución 41- Caleta - Juzgados;-3.610085;37.186726
+597;Villarejo;-3.614862;37.189081
+598;Sacromonte - Puente Mariano;-3.575058;37.181851
+599;Cuesta del Caidero 2;-3.588699;37.17044
+600;Cuesta del Caidero 9;-3.588616;37.17053
+601;Pedro Temboury 18;-3.611109;37.20308
+602;Pedro Temboury 15;-3.61132;37.20316
+603;Avda. Federico García Lorca 24;-3.617716;37.200602
+604;Gran Vía 7 - Catedral;-3.598256;37.176935
+605;Severo Ochoa - Comedores Universitarios;-3.605603;37.182525
+606;Severo Ochoa 11;-3.605419;37.18244
+607;Pedro Temboury 1;-3.613881;37.201841
+608;Molinos 67;-3.590158;37.170485
+609;Molinos 68;-3.590512;37.170708
+610;Merced Alta- CEIP Arrayanes;-3.61635;37.210693
+611;Aconcagua Fte 50;-3.575891;37.158115
+612;Aconcagua Fte 22;-3.577655;37.159299
+613;Avda. Madrid Fte 31;-3.606893;37.19085
+614;Cno. Alfacar - Junto Residencia Fdo. de los Rios;-3.597836;37.202285
+615;Puerta de los Guzmanes;-3.599784;37.197409
+616;Francisco Ayala 37;-3.61724;37.193421
+617;Calicasas - Fte 7;-3.619752;37.205217
+618;Juan Pablo II - Fte 23;-3.610939;37.197943
+619;Santo Sepulcro - Fte. Ermita;-3.577336;37.181628
+620;Ermita Santo Sepulcro;-3.577405;37.181684
+621;Henríquez de Jorquera 10;-3.600129;37.20349
+622;Henríquez de Jorquera 18;-3.600177;37.205007
+623;Conde de Torrepalma 4 - Polideportivo;-3.598641;37.2049
