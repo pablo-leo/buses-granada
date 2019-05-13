@@ -7,13 +7,6 @@ Author:
 - pabloleo@correo.ugr.es
 ---
 
-<center>
-    <div class="inline-block">
-        <img src="./images/ugr_logo_cuadrado.png" width="225" height="200" />
-        <img src="./images/etsiit_ugr_cuadrado.jpeg" width="200" height="250" />
-    </div>
-</center>
-
 Introducción
 ============
 
