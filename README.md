@@ -3,8 +3,7 @@ Análisis y Visualizacián básica de una red social con *Gephi*
 
 ---
 Author:
-- Pablo Leo Muñoz
-- pabloleo@correo.ugr.es
+- Pablo Leo Muñoz | pabloleo@correo.ugr.es
 ---
 
 Introducción
@@ -16,7 +15,7 @@ bus) y un arco se corresponde con el paso de una o más lineas de
 autobuses entre ambas paradas.
 
 Los datos han sido obtenidos de la página web de movilidad de Granada
-[^1], la cuál posee dos archivos **.kml** con las paradas de bus y las
+[1], la cuál posee dos archivos **.kml** con las paradas de bus y las
 líneas de bus. Mediante el uso de un script de Python, tanto los nodos
 como los arcos han sido exportados a otro formato más legible
 (**.csv**).
@@ -29,7 +28,7 @@ paradas.
 
 El plano original de la red de autobuses se puede observar en la figura
 \[fig:plano.buses\], el cuál ha sido obtenido de la página web de
-información sobre el turismo y transporte de Granada [^2].
+información sobre el turismo y transporte de Granada [2].
 
 Actualmente, en la ciudad de Granada existen un total de 29 lineas,
 incluyendo las lineas nocturnas (servicio búho).
@@ -240,6 +239,6 @@ Por otro lado, en las figuras \[fig:bet.vs.eig\] y
 \[fig:bet.vs.degree\], se puede observar como se relacionan las medidas
 de centralidad del vector propio y grado con la intermediación.
 
-[^1]: http://www.movilidadgranada.com/autobuses.php
+[1]: http://www.movilidadgranada.com/autobuses.php
 
-[^2]: http://www.granadadirect.com/transporte/lineas-autobuses-granada/
+[2]: http://www.granadadirect.com/transporte/lineas-autobuses-granada/
