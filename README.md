@@ -7,12 +7,12 @@ Author:
 - pabloleo@correo.ugr.es
 ---
 
-<img src="./images/ugr_logo_cuadrado.png" width="200" height="200" />
-<img src="./images/etsiit_ugr_cuadrado.jpeg" width="200" height="200" />
-
-\
-\
-
+<center>
+    <div class="inline-block">
+        <img src="./images/ugr_logo_cuadrado.png" width="225" height="200" />
+        <img src="./images/etsiit_ugr_cuadrado.jpeg" width="200" height="250" />
+    </div>
+</center>
 
 Introducción
 ============
@@ -117,9 +117,9 @@ son las primeras y últimas paradas de cada línea) y la gran mayoría
 tienen 2 conexiones. También se puede observar que un $\approx 75\%$ de
 los nodos tienen un grado menor a 4.
 
-at (0,0) [![Distribución del grado de la
-red.](./images/degree-distribution.png "fig:")]{}; (8.5,0.5) rectangle
-(12,1.5); (5.55,1) – (5.55,7.76); at (10.2,2) [hubs]{};
+<center>
+    <img src="./images/degree-distribution.png"/>
+</center>
 
 Existen también varios nodos fuertemente conectados (hubs), de los
 cuales el mayor posee un grado de 10. Se da la propiedad **libre de
@@ -144,8 +144,9 @@ conectar directamente cualquier parada con el resto (lo que generaría un
 alto coeficiente de clustering), si no generar un camino que una
 cualquier par de paradas de forma **no** directa.
 
-at (0,0) [![image](./images/clustering-coefficient.png)]{}; (5.2,0.7)
-rectangle (7.8,1.7); (5.07,7.7) circle (0.2); (8.8,1.12) circle (0.2);
+<center>
+    <img src="./images/clustering-coefficient.png"/>
+</center>
 
 El coeficiente de clustering es mucho mayor en las paradas poco
 conectadas que en los *hubs*, ya que las paradas con un grado bajo están
