@@ -1,27 +1,18 @@
+Análisis y Visualizacián básica de una red social con *Gephi*
+============
+
 ---
-author:
+Author:
 - Pablo Leo Muñoz
+- pabloleo@correo.ugr.es
 ---
 
-[![image](./images/ugr_logo_cuadrado.png)]{}
-[ ![image](./images/etsiit_ugr_cuadrado.jpeg)]{}
+<img src="./images/ugr_logo_cuadrado.png" width="200" height="200" />
+<img src="./images/etsiit_ugr_cuadrado.jpeg" width="200" height="200" />
 
 \
 \
-\
-\
 
-**[Universidad de Granada]{}\
-[Máster Universitario Oficial en Ciencia de\
-Datos e Ingeniería de Computadores]{}**\
-[Minería de Medios Sociales\
-Curso 2018/2019]{}\
-[**Análisis y Visualizacián básica de una\
-red social con *Gephi*** ]{}\
-Pablo Leo Muñoz\
-pabloleo@correo.ugr.es\
-DNI - 06288763B\
-Granada -
 
 Introducción
 ============
