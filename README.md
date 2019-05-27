@@ -26,9 +26,12 @@ correcta), se han ordenado los arcos utilizando para ello la distancia
 euclídea de las coordenadas de las lineas de autobús a cada una de las
 paradas.
 
-El plano original de la red de autobuses se puede observar en la figura
-\[fig:plano.buses\], el cuál ha sido obtenido de la página web de
+El plano original de la red de autobuses ha sido obtenido de la página web de
 información sobre el turismo y transporte de Granada [2].
+
+<p align="center">
+    <img src="./images/plano-lineas-autobuses-urbanos.png"/>
+</p>
 
 Actualmente, en la ciudad de Granada existen un total de 29 lineas,
 incluyendo las lineas nocturnas (servicio búho).
@@ -37,13 +40,20 @@ Análisis básico de la red
 =========================
 
 Tras cargar el conjunto de datos en **Gephi**, se ha utilizado *Force
-Atlas 2* como *Layout* para visualizar la red evitando solapamientos. La
-red resultante se puede obseravar en la figura \[fig:forceatlas2\].
+Atlas 2* como *Layout* para visualizar la red evitando solapamientos.
+
+<p align="center">
+    <img src="./images/force_atlas_2.png"/>
+</p>
 
 Ya que se trata de una red de autobuses, se han exportado también las
 coordenadas de las paradas de autobuses, y mediante el uso del plugin
 **Geo Layout**, se ha generado otra visualización más orientativa de los
-datos, la cual se puede observar en la figura \[fig:geolayout\].
+datos.
+
+<p align="center">
+    <img src="./images/geo_layout.png"/>
+</p>
 
 El conjunto de datos posee un total de **624** nodos (N) y **829** arcos
 (L). Este conjunto de datos ha sido generado de manera que no existen
@@ -189,27 +199,37 @@ utilizará el método de **Lovaina**.
 -   Resolución **0.5**: Se han encontrado un total de 32 comunidades con
     un valor de modularidad $Q$ de 0.828.
 
-    \[fig:modularity.05\]
+    <p align="center">
+        <img src="./images/modularity_05.png"/>
+    </p>
 
 -   Resolución **0.75**: Se han encontrado un total de 24 comunidades
     con un valor de modularidad $Q$ de 0.838.
-
-    \[fig:modularity.75\]
-
+    
+    <p align="center">
+        <img src="./images/modularity_075.png"/>
+    </p>
+    
 -   Resolución **1.0**: Se han encontrado un total de 21 comunidades con
     un valor de modularidad $Q$ de 0.837.
 
-    \[fig:modularity.1\]
-
+    <p align="center">
+        <img src="./images/modularity_10.png"/>
+    </p>
+    
 -   Resolución **2.5**: Se han encontrado un total de 13 comunidades con
     un valor de modularidad $Q$ de 0.820.
 
-    \[fig:modularity.25\]
-
+    <p align="center">
+        <img src="./images/modularity_25.png"/>
+    </p>
+    
 -   Resolución **5.0**: Se han encontrado un total de 6 comunidades con
     un valor de modularidad $Q$ de 0.711.
 
-    \[fig:modularity.50\]
+    <p align="center">
+        <img src="./images/modularity_50.png"/>
+    </p>
 
 A partir de los valores de la modularidad obtenidos, se puede concluir
 que la resolución de 0.75 obtuvo un mejor valor, seguido de la
@@ -228,16 +248,33 @@ Visualizaciones y gráficos adicionales
 
 Una vez estudiados los actores más centrales, se han generado diversas
 gráficas que muestran la relacción entre estas medidas de centralidad.
-En las figuras \[fig:centralitygraphsbetwvec\],
-\[fig:centralitygraphsbetwcent\] y \[fig:centralitygraphsbetwdeg\] se
-pueden observar distintas gráficas, en las cuales el tamaño de los nodos
+En las siguientes figuras, se pueden observar distintas gráficas, en las cuales el tamaño de los nodos
 corresponde con la intermediación de los nodos y su color depende de
-otras medidas como la centralidad del vecotr propio, la cercanía o el
+otras medidas como la centralidad del vector propio, la cercanía o el
 grado.
 
-Por otro lado, en las figuras \[fig:bet.vs.eig\] y
-\[fig:bet.vs.degree\], se puede observar como se relacionan las medidas
+<p align="center">
+    <img src="./images/betweenes_vector.png"/>
+</p>
+
+<p align="center">
+    <img src="./images/betweenes_centrality.png"/>
+</p>
+
+<p align="center">
+    <img src="./images/betweenes_degree.png"/>
+</p>
+
+Por otro lado, en las siguientes figuras, se puede observar como se relacionan las medidas
 de centralidad del vector propio y grado con la intermediación.
+
+<p align="center">
+    <img src="./images/bet_vs_eig.png"/>
+</p>
+
+<p align="center">
+    <img src="./images/bet_vs_degree.png"/>
+</p>
 
 [1]: http://www.movilidadgranada.com/autobuses.php
 
