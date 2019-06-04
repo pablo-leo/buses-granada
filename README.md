@@ -1,4 +1,4 @@
-Análisis y Visualizacián básica de una red social con *Gephi*
+Análisis y Visualizacián de la red de autobuses de Granada
 ============
 
 ---
@@ -9,105 +9,67 @@ Author:
 Introducción
 ============
 
-Durante este trabajo, se realizará el estudio de la red de autobuses de
-Granada, donde cada nodo se corresponde con una marquesina (parada de
-bus) y un arco se corresponde con el paso de una o más lineas de
-autobuses entre ambas paradas.
+Durante este trabajo, se realizará el estudio de la red de autobuses de Granada, donde cada nodo se corresponde con una marquesina (parada de bus) y un arco se corresponde con el paso de una o más lineas de autobuses entre ambas paradas.
 
-Los datos han sido obtenidos de la página web de movilidad de Granada
-[1], la cuál posee dos archivos **.kml** con las paradas de bus y las
-líneas de bus. Mediante el uso de un script de Python, tanto los nodos
-como los arcos han sido exportados a otro formato más legible
-(**.csv**).
+Los datos han sido obtenidos de la página web de movilidad de Granada [1], la cuál posee dos archivos **.kml** con las paradas de bus y las líneas de bus. Mediante el uso de un script de Python, tanto los nodos como los arcos han sido exportados a otro formato más legible (**.csv**).
 
-Cabe destacar que para conseguir que las lineas de buses se exportasen
-de forma correcta (que las lineas estuvieran conectadas de forma
-correcta), se han ordenado los arcos utilizando para ello la distancia
-euclídea de las coordenadas de las lineas de autobús a cada una de las
-paradas.
+Para conseguir que las lineas de buses se exportasen de forma correcta (que las lineas estuvieran conectadas de forma correcta), se han ordenado los arcos utilizando para ello la distancia euclídea de las coordenadas de las lineas de autobús a cada una de las paradas.
 
-El plano original de la red de autobuses ha sido obtenido de la página web de
-información sobre el turismo y transporte de Granada [2].
+El plano original de la red de autobuses ha sido obtenido de la página web de información sobre el turismo y transporte de Granada [2].
 
 <p align="center">
-    <img src="./images/plano-lineas-autobuses-urbanos.png"/>
+    <img src="./images/plano-lineas-autobuses-urbanos.png" width="500" height="300"/>
 </p>
 
-Actualmente, en la ciudad de Granada existen un total de 29 lineas,
-incluyendo las lineas nocturnas (servicio búho).
+Actualmente, en la ciudad de Granada existen un total de 29 lineas, incluyendo las lineas nocturnas (servicio búho).
 
 Análisis básico de la red
 =========================
 
-Tras cargar el conjunto de datos en **Gephi**, se ha utilizado *Force
-Atlas 2* como *Layout* para visualizar la red evitando solapamientos.
+Tras cargar el conjunto de datos en **Gephi**, se ha utilizado *Force Atlas 2* como *Layout* para visualizar la red evitando solapamientos.
 
 <p align="center">
-    <img src="./images/force_atlas_2.png"/>
-</p>
+    <img src="./images/force_atlas_2.png" width="400" height="400"/>
+</p>0
 
-Ya que se trata de una red de autobuses, se han exportado también las
-coordenadas de las paradas de autobuses, y mediante el uso del plugin
-**Geo Layout**, se ha generado otra visualización más orientativa de los
-datos.
+Ya que se trata de una red de autobuses, se han exportado también las coordenadas de las paradas de autobuses, y mediante el uso del plugin **Geo Layout**, se ha generado otra visualización más orientativa de los datos.
 
 <p align="center">
-    <img src="./images/geo_layout.png"/>
+    <img src="./images/geo_layout.png" width="400" height="400"/>
 </p>
 
-El conjunto de datos posee un total de **624** nodos (N) y **829** arcos
-(L). Este conjunto de datos ha sido generado de manera que no existen
-arcos repetidos, además de no poseer dirección, para simplificar el
-problema.
+El conjunto de datos posee un total de **624** nodos (N) y **829** arcos (L). Este conjunto de datos ha sido generado de manera que no existen arcos repetidos, además de no poseer dirección, para simplificar el problema.
 
--   En lo referido al **número máximo de enlaces** $L_{max}$, este viene
-    determinado por:
+-   En lo referido al **número máximo de enlaces** L<sub>max</sub>, este viene determinado por:
 
-    $$L_{max} = \frac{N(N-1)}{2}$$
+    L<sub>max</sub> = N(N-1)/2
 
-    Donde $N$ es el número de nodos. Para este caso en concreto, el
-    número máximo de enlaces es de **194376** arcos.
+    Donde *N* es el número de nodos. Para este caso en concreto, el número máximo de enlaces es de **194376** arcos.
 
--   Centrándonos en el **grado medio** de la red $\langle k \rangle$,
-    este viene determinado por:
+-   Centrándonos en el **grado medio** de la red &lsaquo; k &rsaquo;, este viene determinado por:
 
-    $$\langle k \rangle = \frac{2L}{N}$$
+    &lsaquo; k &rsaquo; = 2L/N
 
-    Donde $N$ es el número de nodos y $L$ es el número de arcos de la
-    red. Para este caso en concreto, el grado medio es **2.657**.
+    Donde *N* es el número de nodos y *L* es el número de arcos de la red. Para este caso en concreto, el grado medio es **2.657**.
 
--   Fijándonos en la **densidad** de la red $D$, esta viene determinada
-    por:
+-   Fijándonos en la **densidad** de la red *D*, esta viene determinada por:
 
-    $$D = \frac{L}{L_{max}}$$
+    D = L/L<sub>max</sub>
 
-    Donde $L$ es el número de arcos y $L_{max}$ es el número máximo de
-    enlaces. Para este caso en concreto, la densidad de la red es
-    **0.004**.
+    Donde *L* es el número de arcos y  *L<sub>max</sub>* es el número máximo de enlaces. Para este caso en concreto, la densidad de la red es **0.004**.
 
--   Siguiendo con el **coeficiente medio de clustering**
-    $\langle C \rangle$, este viene determinado por:
+-   Siguiendo con el **coeficiente medio de clustering** &lsaquo; C &rsaquo;, este viene determinado por:
 
-    $$\langle C \rangle = \frac{1}{N} \sum_{i=1}^{N} C_{i}$$
+    &lsaquo; C &rsaquo; = 1/N \sum_{i=1}^{N} C<sub>i</sub>
 
-    Donde $N$ es el número de nodos y $C_{i}$ es el coeficiente de
-    clustering del nodo $i$. Para este caso en concreto, el coeficiente
-    medio de clustering es de **0.063**.
+    Donde *N* es el número de nodos y *C<sub>i</sub>* es el coeficiente de clustering del nodo *i*. Para este caso en concreto, el coeficiente medio de clustering es de **0.063**.
 
--   Centrándonos en las **componentes conexas** de la red, se puedede
-    observar que existen 4 componentes conexas, de las cuales 1 es la
-    componente ‘gigante’. Tras filtrar la componente gigante del resto,
-    se ha obtenido que existen un total de **621** nodos (99.52% del
-    original) y **829** arcos (100% del original).
+-   Centrándonos en las **componentes conexas** de la red, se puedede observar que existen 4 componentes conexas, de las cuales 1 es la componente 'gigante'. Tras filtrar la componente gigante del resto, se ha obtenido que existen un total de **621** nodos (99.52% del original) y **829** arcos (100% del original).
 
--   En lo referido a las medidas de **centralidad** de la red, se
-    observa que el **diámetro** de la red $d_{max}$ es de **47**, además
-    de tener un **radio** de **24** y una **distancia media**
-    $\langle d \rangle$ de **13.675**.
+-   En lo referido a las medidas de **centralidad** de la red, se observa que el **diámetro** de la red d<sub>max</sub> es de **47**, además de tener un **radio** de **24** y una **distancia media** &lsaquo; d &rsaquo; de **13.675**.
 
-A partir de las medidas calculadas anteriormente, se puede realizar el
-siguiente análisis de la red estudiada:\
-**Valores de las medidas**: $N=624$ nodos, $L=829$ enlaces, $D=0.004$\
+A partir de las medidas calculadas anteriormente, se puede realizar el siguiente análisis de la red estudiada:\
+**Valores de las medidas**: N = 624 nodos, L = 829 enlaces, D = 0.004\
 **Grado medio**: $\langle k \rangle = 2.657$ $\rightarrow$ cada parada
 está unida de media a otras 2-3 paradas. Lo cual tiene sentido, pues una
 línea une (exceptuando la primera y la última parada) cada parada con la
