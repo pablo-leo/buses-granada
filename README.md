@@ -97,6 +97,14 @@ Estudio de la centralidad de los actores
 
 Durante esta sección, se estudiarán los 5 actores que de acuerdo con diversas mediads de **grado**, **intermediación**, **cercanía** y **vector propio** se consideran como los principales.
 
+|                    **Grado**                    |                   **Intermediación**                   |                      **Cercanía**                     |                   **Vector propio**                  |
+|:-------------------------------------------:|:--------------------------------------------------:|:-------------------------------------------------:|:------------------------------------------------:|
+|       Avda. Constitución 2 Triunfo <br /> **10**      |            Gran Vía 5 Catedral <br /> **0.40635**            |            Gran Vía 5 Catedral <br /> **0.12372**           |         Avda. Constitución 2 Triunfo <br /> **1.0**        |
+|        Cno. Ronda 130 Méndez Núñez <br /> **8**       |               Constitución 7 <br /> **0.30835**              |              Constitución 7 <br /> **0.12330**              |       Cno. Ronda 130 Méndez Núñez <br /> **0.88731**       |
+| Acera del Darro 1 Fuente de las Batallas <br /> **7** |  Acera del Darro 1 Fuente de las Batallas <br /> **0.28917** | Acera del Darro 1 Fuente de las Batallas <br /> **0.11980** |              Cno. Ronda 148 <br /> **0.85517**             |
+|           Avda. Constitución 21 <br /> **7**          |              Plaza San Isidro <br /> **0.21179**             |        Avda. del Hospicio Triunfo <br /> **0.11895**        |          Avda. Constitución 20 <br /> **0.78249**          |
+|  Avda. Constitución 50 Caleta - Hospital <br /> **7** | Acera del Darro 30 Fuente de las Batallas <br /> **0.18381** |       Avda. Constitución 2 Triunfo <br /> **0.11893**       | Avda. Constitución 50 Caleta - Hospital <br /> **0.77971** |
+
 -   Fijándonos en el **grado**, observamos que el nodo (parada de bus) que más conectado está a otras paradas es 'Avda. Constitución 2 - Triunfo', seguido de 'Cno. Ronda 130 - Méndez Núñez' y 'Acera del Darro 1 - Fuente de las Batallas'. Estas tres paradas pueden ser consideradas como las más importantes respecto a los vecinos más cercanos.
 
 -   Por su parte, en cuanto a la **intermediación**, observamos que el nodo que más valor de correduría tiene es 'Gran Vía 5 - Catedral', seguido de 'Constitución 7' y 'Acera del Darro 1 - Fuente de las Batallas'. Estas tres paradas pueden ser consideradas como las más importantes respecto al número de caminos geodésicos que pasan por ellos (el número de caminos mínimos que pasan por estos nodos para unir dos paradas).
