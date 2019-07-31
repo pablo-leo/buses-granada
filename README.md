@@ -1,4 +1,4 @@
-Análisis y Visualizacián de la red de autobuses de Granada
+Análisis y Visualizacián de la red de autobuses de Granada en *Gephi*
 ============
 
 ---
@@ -9,7 +9,7 @@ Author:
 Introducción
 ============
 
-Durante este trabajo, se realizará el estudio de la red de autobuses de Granada, donde cada nodo se corresponde con una marquesina (parada de bus) y un arco se corresponde con el paso de una o más lineas de autobuses entre ambas paradas.
+Este estudio muestra la red de autobuses de Granada, donde cada nodo se corresponde con una marquesina (parada de bus) y un arco se corresponde con el paso de una o más lineas de autobuses entre ambas paradas.
 
 Los datos han sido obtenidos de la página web de movilidad de Granada [1], la cuál posee dos archivos **.kml** con las paradas de bus y las líneas de bus. Mediante el uso de un script de Python, tanto los nodos como los arcos han sido exportados a otro formato más legible (**.csv**).
 
@@ -18,7 +18,7 @@ Para conseguir que las lineas de buses se exportasen de forma correcta (que las 
 El plano original de la red de autobuses ha sido obtenido de la página web de información sobre el turismo y transporte de Granada [2].
 
 <p align="center">
-    <img src="./images/plano-lineas-autobuses-urbanos.png" width="500" height="300"/>
+    <img src="./images/plano-lineas-autobuses-urbanos.png" width="625" height="375"/>
 </p>
 
 Actualmente, en la ciudad de Granada existen un total de **29 lineas**, incluyendo las lineas nocturnas (servicio búho).
@@ -137,30 +137,25 @@ En las gráficas con la modularidad de 0.75 y de 1.0 (izquierda y derecha respec
 Visualizaciones y gráficos adicionales
 ======================================
 
-Una vez estudiados los actores más centrales, se han generado diversas gráficas que muestran la relacción entre estas medidas de centralidad. En las siguientes figuras, se pueden observar distintas gráficas, en las cuales el tamaño de los nodos corresponde con la intermediación de los nodos y su color depende de otras medidas como la centralidad del vector propio, la cercanía o el
-grado.
+Una vez estudiados los actores más centrales, se han generado diversas gráficas que muestran la relacción entre estas medidas de centralidad. En las siguientes figuras, se pueden observar distintas gráficas, en las cuales el tamaño de los nodos corresponde con la intermediación de los nodos y su color depende de la centralidad del vector propio, la cercanía o el grado. Es por ello que el tamaño de los nodos en las tres siguientes gráficas son exactamente los mismos.
 
 <p align="center">
     <img src="./images/betweenes_vector.png"/>
 </p>
 
+En cuanto a la intermediación de los nodos, se puede observar que los nodos que poseen un mayor valor de vector propio (poseen un tono más rojizo), se encuentran en la calle 'Camino de Ronda' y 'Avenida Constitución'.
+
 <p align="center">
     <img src="./images/betweenes_centrality.png"/>
 </p>
+
+En el caso de la centralidad de los nodos, se puede observar que casi todos los nodos de la red poseen un alto valor de cercanía, excepto los nodos de las periferias.
 
 <p align="center">
     <img src="./images/betweenes_degree.png"/>
 </p>
 
-Por otro lado, en las siguientes figuras, se puede observar cómo se relacionan las medidas de centralidad del vector propio y grado con la intermediación.
-
-<p align="center">
-    <img src="./images/bet_vs_eig.png"/>
-</p>
-
-<p align="center">
-    <img src="./images/bet_vs_degree.png"/>
-</p>
+Por último, en el caso del grado, se puede observar que los nodos con mayor valor de grado, también se encuentran en la calle 'Camino de Ronda' y 'Avenida Constitución'. Esto se debe principalmente a que en estas calles, existen marquesinas que concentran un alto número de lineas. 
 
 [1]: http://www.movilidadgranada.com/autobuses.php
 
